@@ -1,0 +1,5 @@
+/* XPM */
+static char *left_inactive_xpm[] = {
+"2 1 1 1",
+".	c #FAFAFA s inactive_color_1",
+".."};
