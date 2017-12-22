@@ -1,7 +1,7 @@
 /* XPM */
 static char *shade_inactive[] = {
 "32 26 2 1 ",
-".	c #FAFAFA s inactive_color_1",
+".	c #FAFAFA s inactive_color_2",
 "+	c #AAAAAA",
 "................................",
 "................................",
